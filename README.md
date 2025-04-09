@@ -1,2 +1,2 @@
 # instagram
-understanding how get hub work.
+understanding how git hub work.
